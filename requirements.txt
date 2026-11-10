@@ -1,0 +1,5 @@
+# файл requirements.txt — список библиотек
+flask
+flask-cors
+gunicorn
+supabase
